@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: //first-site-vao.netlify.app/
 languageCode: en-US
 title: premier site
 theme: hugo-lithium
